@@ -1,4 +1,4 @@
-# Detector-de-Plágio
+# Detector de Plágio
 
 ## Sobre o projeto
 Este projeto é um verificador de plágio desenvolvido em Python. Ele analisa textos enviados pelo usuário e verifica se há similaridade com conteúdos disponíveis na internet, usando inteligência artificial e ferramentas de busca especializadas. O objetivo é auxiliar estudantes, professores e profissionais a identificarem possíveis trechos plagiados de forma rápida e confiável.
