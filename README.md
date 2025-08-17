@@ -15,3 +15,6 @@ Este projeto é um verificador de plágio desenvolvido em Python. Ele analisa te
 - LangChain – Para integração com modelos de linguagem e prompts;
 - LangChain Groq (ChatGroq) – Modelo de IA utilizado para análise de textos;
 - Tavily – Ferramenta de busca de textos similares na internet;
+
+  
+![detectordeplagio](https://github.com/user-attachments/assets/65669508-0c9d-4277-9280-f0a23a16bfe1)
